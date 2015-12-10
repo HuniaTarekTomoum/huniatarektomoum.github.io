@@ -1,0 +1,27 @@
+
+.typicalpage-images
+{
+background-color:black;
+height:255px;
+width: 255px;
+text-align:center
+}
+
+
+.midpage-images
+{background-color:hotpink;
+height:auto;
+width: 280px;
+text-align:center;
+}
+
+
+.midpage-images:hover
+{
+background-color:#b2b2b2;
+height:auto;
+width: 280px;
+text-align:center;
+}
+
+
