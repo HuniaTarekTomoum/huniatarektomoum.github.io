@@ -1,13 +1,13 @@
 /* unvisited link */
 a:link {
-    color: #528651;
+    color:#528651;
 	text-decoration:none;
 	font-weight: bold;
 }
 
 /* visited link */
 a:visited {
-    color: hotpink;
+    color: #528651;
 }
 
 /* mouse over link */
@@ -17,7 +17,7 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: hotpink;
+    color: #528651;
 }
 
 	
