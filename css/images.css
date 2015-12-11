@@ -2,14 +2,14 @@
 .typicalpage-images
 {
 background-color:black;
-height:150px;
-width: 210px;
+height:255px;
+width: 255px;
 text-align:center
 }
 
 
 .midpage-images
-{
+{background-color:hotpink;
 height:auto;
 width: 280px;
 text-align:center;
