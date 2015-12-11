@@ -1,0 +1,32 @@
+
+
+.projecttable
+{
+height:auto;
+width:840;
+border-collapse:collapse;
+border-spacing: 0px;
+border-width:0px;
+padding: 0px;
+}
+
+.projectpage-images
+{
+
+height:auto;
+width: auto;
+border:0px solid black;
+padding:1px 3px 1px 3px;
+
+}
+
+
+.mainimage
+{
+font-size:14px;
+height:auto;
+width: 840px;
+margin: 10px 10px 30px 10px;
+border:0px solid black;
+
+}
