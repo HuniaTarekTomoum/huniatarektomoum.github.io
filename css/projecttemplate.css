@@ -1,4 +1,8 @@
+#title
+{
+font-size:16px;
 
+}
 
 .projecttable
 {
@@ -17,6 +21,8 @@ height:auto;
 width: auto;
 border:0px solid black;
 padding:1px 3px 1px 3px;
+
+
 
 }
 
