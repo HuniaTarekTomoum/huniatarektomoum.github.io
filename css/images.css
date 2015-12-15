@@ -11,17 +11,16 @@ text-align:center
 .midpage-images
 {
 height:auto;
-width: 280px;
-text-align:center;
+width: autopx;
+text-align:left;
 }
 
 
 .midpage-images:hover
 {
-background-color:#b2b2b2;
 height:auto;
-width: 280px;
-text-align:center;
+width: auto;
+text-align:left;
 }
 
 
