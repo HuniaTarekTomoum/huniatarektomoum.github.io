@@ -15,17 +15,6 @@ margin: 10px 10px 40px 10px;
 }
 
 
-.footer {
-  font-size:10px;
-  height:100;
- width: 840px;
- margin: 10px 10px 20px 10px; 
-    position: fixed;
-    bottom: 0;
-}
-  
-}
-
 .menu
 {
 height:120px;
@@ -70,3 +59,11 @@ margin: 0px 3px 40px 0px;
 }
 
 
+.footer {
+  font-size:10px;
+  height:100;
+ width: 840px;
+ margin: 10px 10px 20px 10px; 
+    position: fixed;
+    bottom: 0;
+}
