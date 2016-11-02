@@ -4,6 +4,16 @@ font-size:16px;
 
 }
 
+#cliptext
+{
+font-size:10px;
+}
+
+#cliptitle
+{
+font-size:12px;
+}
+
 .projecttable
 {
 height:auto;
