@@ -59,6 +59,22 @@ margin: 0px 3px 40px 0px;
 }
 
 
+.content .equaldivisionsright
+{
+height:auto;
+width: 405px;
+float: right;
+margin: 0px 3px 40px 0px;
+}
+.content .equaldivisionsleft
+{
+height:auto;
+width: 405px;
+float: left;
+margin: 0px 3px 40px 0px;
+}
+
+
 .footer {
   font-size:10px;
   height:100;
